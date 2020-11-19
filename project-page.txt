@@ -1,0 +1,42 @@
+Choose your own adventure game(JS)
+
+	A game of decision making made entirely in JavaScript where you pick the direction you wish to go using text prompts.
+
+GitHub link: https://github.com/JodyWinters/choose-your-own-adventure/blob/master/choose-game.js
+Play link:
+
+
+
+
+DOM adventure game
+
+	A choose your own adventure game where you wake up in an unfamiliar place. The code includes mostly JavaScript that manipulates the DOM as well as a small bit of html and CSS.
+
+GitHub link: https://github.com/JodyWinters/dom-adventure-game
+Play link: https://jodywinters.github.io/dom-adventure-game/index.html
+
+
+
+Tic-Tac-Toe
+
+	A simple game of tic-tac-toe built with a partner that uses html, CSS, and JavaScript.
+
+GitHub link: https://github.com/JodyWinters/tic-tac-toe
+Play link: https://jodywinters.github.io/tic-tac-toe/
+
+
+
+To-Do List
+
+	An interactive app that lets you add and remove tasks you need to complete along with a short description.
+
+GitHub link: https://github.com/JodyWinters/to-do-list
+Play link:
+
+
+
+Portfolio
+
+	The website you are currently looking at displaying info about myself as well as projects I've done.
+
+Github link: https://github.com/JodyWinters/JodyWinters.github.io
