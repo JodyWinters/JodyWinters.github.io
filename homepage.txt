@@ -1,7 +1,28 @@
+Header:
+Possible logo or design img
+
+Jody Winters
+
+Home Page
+
+Nav:
+Home Page/About
+Projects
+Resume
+
+Body:
+
 About Me
 
 My name is Jody Winters. I'm currently a student of Thaddeus Stevens in the Computer Software Engineering program. I have an interest in working on video games as well as artificial intelligence. So far, I've learned about using Javascript, CSS, html and the terminal. 
 
 
 Picture of self: TBD
+
+
+Footer:
+
+jodywinters11@hotmail.com
+717-873-3183
+
 
