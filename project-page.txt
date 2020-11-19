@@ -2,8 +2,9 @@ Choose your own adventure game(JS)
 
 	A game of decision making made entirely in JavaScript where you pick the direction you wish to go using text prompts.
 
-GitHub link: https://github.com/JodyWinters/choose-your-own-adventure/blob/master/choose-game.js
-Play link:
+Play link: https://repl.it/@JodyWinters/Choose-Your-Own-Adventure#index.js
+
+Might use repl.it logo for picture
 
 
 
@@ -30,9 +31,9 @@ To-Do List
 
 	An interactive app that lets you add and remove tasks you need to complete along with a short description.
 
-GitHub link: https://github.com/JodyWinters/to-do-list
-Play link:
+Play link: https://repl.it/@JodyWinters/To-Do-List-Manager#index.js
 
+Might use repl.it logo for picture
 
 
 Portfolio

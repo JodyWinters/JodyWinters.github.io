@@ -3,5 +3,5 @@ About Me
 My name is Jody Winters. I'm currently a student of Thaddeus Stevens in the Computer Software Engineering program. I have an interest in working on video games as well as artificial intelligence. So far, I've learned about using Javascript, CSS, html and the terminal. 
 
 
-Resume link: https://jodywinters.github.io/resume/index.html
+Picture of self: TBD
 
