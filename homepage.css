@@ -1,0 +1,28 @@
+body {
+    background: #73778c;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+article {
+  width: 425px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 30px;
+  color: #black;
+}
+
+article p {
+  margin-top: 20px;
+  color: #black;
+}
+
+figure {
+  margin-top: 30px;
+}
