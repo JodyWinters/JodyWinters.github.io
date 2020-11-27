@@ -5,23 +5,25 @@
 }
 
 body {
-  padding-bottom: 60px;
+  padding-bottom: 100px;
 }
 
 header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: #292a2d;
+  background: #39311d;
   position: sticky;
   top: -0.5px;
   text-transform: uppercase;
+  height: 100px;
 }
 
 h1 {
   color: #cccccc;
 }
-ul {
+
+nav ul {
   display: flex;
   list-style: none;
   justify-content: space-around;
@@ -35,11 +37,11 @@ header p {
 
 a {
   text-decoration: none;
-  color: #fdfd8e;
+  color: #ffdd93;
 }
 
 footer {
-  background: #292a2d;
+  background: #39311d;
   width: 100vw;
   display: flex;
   justify-content: space-between;
@@ -92,7 +94,7 @@ footer nav a {
     padding-left: 10vw;
   }
 
-  ul {
+  nav ul {
     width: 300px;
   }
 }
