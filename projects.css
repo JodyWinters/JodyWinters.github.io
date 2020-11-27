@@ -13,6 +13,8 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 350px;
+  height: 200px;
 }
 
 section {
@@ -26,7 +28,7 @@ section {
 
 h2 {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 10px;
   text-transform: uppercase;
 }
@@ -34,19 +36,23 @@ h2 {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  font-size: 25px;
 }
 
 figure+a {
   display: block;
   text-align: center;
+  font-size: 25px;
 }
 
 figcaption {
   width: 375px;
-  height: 85px;
+  height: 100px;
   text-align: center;
+  margin-top: 5px;
   margin-right: auto;
   margin-left: auto;
+  font-size: 20px;
 }
 
 @media (min-width: 900px) {

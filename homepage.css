@@ -16,11 +16,13 @@ h2 {
   text-align: center;
   margin-top: 30px;
   color: #black;
+  font-size: 30px;
 }
 
 article p {
   margin-top: 20px;
   color: #black;
+  font-size: 20px;
 }
 
 figure {
