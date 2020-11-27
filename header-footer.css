@@ -17,6 +17,7 @@ header {
   top: -0.5px;
   text-transform: uppercase;
   height: 100px;
+  z-index: 1;
 }
 
 h1 {
@@ -49,6 +50,7 @@ footer {
   position: fixed;
   bottom: 0;
   height: 60px;
+  z-index: 1;
 }
 
 footer div {

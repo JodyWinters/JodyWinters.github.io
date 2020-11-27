@@ -22,14 +22,20 @@ aside {
   padding-left: 10vw;
 }
 
-ul {
-  list-style: none;
+p + ul, h2 + ul {
+  position: relative;
+  left: 27px;
+}
+
+.course-line {
+  font-size: 15px;
 }
 
 h2 {
   margin-top: 15px;
   margin-bottom: 7px;
   border-bottom: 1px solid #ccc;
+  font-size: 30px;
 }
 
 h3+p {
@@ -38,6 +44,7 @@ h3+p {
 
 h3 {
   margin-top: 7px;
+  font-size: 20px;
 }
 
 @media (min-width:600px) {
@@ -55,13 +62,15 @@ h3 {
 
 @media (min-width: 900px) {
   aside {
-    top: 80px;
-    right: 0;
-    flex-direction: column;
-    width: 120px;
-    height: 150px;
-    border-bottom: none;
-    border-top: 1px solid #ccc;
-    padding: 10px 0 10px 0;
+    display: none;
+  }
+  main {
+    display: flex;
+    width: 900px;
+    justify-content: space-around;
+  }
+
+  div:nth-of-type(2n) {
+    margin-left: 110px;
   }
 }
