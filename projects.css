@@ -6,6 +6,7 @@ div {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: 'Roboto';
 }
 
 img {
@@ -31,6 +32,7 @@ h2 {
   margin-top: 10px;
   margin-bottom: 10px;
   text-transform: uppercase;
+  font-family: 'Lato';
 }
 .projectLink {
   display: flex;
@@ -43,12 +45,12 @@ figure+a {
   display: block;
   text-align: center;
   font-size: 25px;
+  font-family: 'Lato';
 }
 
 figcaption {
   width: 375px;
   height: 100px;
-  text-align: center;
   margin-top: 5px;
   margin-right: auto;
   margin-left: auto;
