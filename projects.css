@@ -2,7 +2,7 @@ body {
   background: #7e7474;
 }
 
-div {
+.projectCouples {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -45,7 +45,7 @@ figure+a {
   display: block;
   text-align: center;
   font-size: 25px;
-  font-family: 'Lato';
+
 }
 
 figcaption {
@@ -58,7 +58,7 @@ figcaption {
 }
 
 @media (min-width: 900px) {
-  div {
+  .projectCouples {
     flex-direction: row;
     justify-content: space-around;
     max-width: 1000px;
